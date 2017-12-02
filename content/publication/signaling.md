@@ -1,27 +1,27 @@
 +++
-title = "Robust Bond Risk Premia"
-date = 2017-09-22
+title = "The Signaling Channel for Federal Reserve Bond Purchases"
+date = 2014-09-01
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Michael D. Bauer", "James D. Hamilton"]
+authors = ["Michael D. Bauer", "Glenn D. Rudebusch"]
 
 # Publication type.
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Review of Financial Studies*"
+publication = "In *International Journal of Central Banking*"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "A consensus has recently emerged that variables beyond the level, slope, and curvature of the yield curve can help predict bond returns. This paper shows that the statistical tests underlying this evidence are subject to serious small-sample distortions. We propose more robust tests, including a novel bootstrap procedure specifically designed to test the spanning hypothesis. We revisit the analysis in six published studies and find that the evidence against the spanning hypothesis is much weaker than it originally appeared. Our results pose a serious challenge to the prevailing consensus."
+abstract = "Previous research has emphasized the portfolio balance effects of Federal Reserve bond purchases, in which a reduced bond supply lowers term premia. In contrast, we find that such purchases have important signaling effects that lower expected future short-term interest rates. Our evidence comes from a model-free analysis and from dynamic term structure models that decompose declines in yields following Federal Reserve announcements into changes in risk premia and expected short rates. To overcome problems in measuring term premia, we consider bias-corrected model estimation and restricted risk price estimation. In comparison with other studies, our estimates of signaling effects are larger in magnitude and statistical significance."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -30,8 +30,7 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = "https://academic.oup.com/rfs/advance-article-abstract/doi/10.1093/rfs/hhx096/4210006"
-url_preprint = "https://www.frbsf.org/economic-research/files/wp2015-15.pdf"
+url_pdf = "http://www.ijcb.org/journal/ijcb14q3a7.pdf"
 url_code = ""
 url_dataset = ""
 url_project = ""

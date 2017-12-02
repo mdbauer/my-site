@@ -29,8 +29,8 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = "https://www.frbsf.org/economic-research/publications/working-papers/wp11-03bk.pdf"
-url_preprint = "http://amstat.tandfonline.com/eprint/nMMuIu76kXzDEXByKBVD/full#"
+url_pdf = "http://amstat.tandfonline.com/eprint/nMMuIu76kXzDEXByKBVD/full#"
+url_preprint = "https://www.frbsf.org/economic-research/publications/working-papers/wp11-03bk.pdf"
 url_code = "https://www.frbsf.org/economic-research/files/bauer_rrp_replication.zip"
 url_dataset = ""
 url_project = ""

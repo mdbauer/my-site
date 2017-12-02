@@ -1,6 +1,6 @@
 +++
-title = "Resolving the Spanning Puzzle in Macro-Finance Term Structure Models"
-date = 2017-03-01
+title = "Monetary Policy Expectations at the Zero Lower Bound"
+date = 2016-09-15
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -10,11 +10,11 @@ authors = ["Michael D. Bauer", "Glenn D. Rudebusch"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Review of Finance*"
+publication = "In *Journal of Money, Credit and Banking*"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Most existing macro-finance term structure models (MTSMs) appear incompatible with regression evidence of unspanned macro risk. This \"spanning puzzle\" appears to invalidate those models in favor of new unspanned MTSMs. However, our empirical analysis supports the previous spanned models. Using simulations to investigate the spanning implications of MTSMs, we show that a canonical spanned model is consistent with the regression evidence; thus, we resolve the spanning puzzle. In addition, direct likelihood-ratio tests find that the knife-edge restrictions of unspanned models are rejected with high statistical significance, though these restrictions have only small effects on cross-sectional fit and estimated term premia."
+abstract = "We show that conventional dynamic term structure models (DTSMs) estimated on recent U.S. data severely violate the zero lower bound (ZLB) on nominal interest rates and deliver poor forecasts of future short rates. In contrast, shadow-rate DTSMs account for the ZLB by construction, capture the resulting distributional asymmetry of future short rates, and achieve good forecast performance. These models provide more accurate estimates of the most likely path for future monetary policy—including the timing of policy liftoff from the ZLB and the pace of subsequent policy tightening. We also demonstrate the benefits of including macroeconomic factors in a shadow-rate DTSM when yields are constrained near the ZLB."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
@@ -30,9 +30,9 @@ selected = false
 projects = []
 
 # Links (optional).
-url_pdf = "http://rof.oxfordjournals.org/content/early/2016/10/07/rof.rfw044.abstract"
-url_preprint = "https://www.frbsf.org/economic-research/publications/working-papers/wp2015-01.pdf"
-url_code = ""
+url_pdf = "http://onlinelibrary.wiley.com/doi/10.1111/jmcb.12338/full"
+url_preprint = "https://www.frbsf.org/economic-research/publications/working-papers/wp2013-18.pdf"
+url_code = "https://www.frbsf.org/economic-research/files/bauer_rudebusch_zlb_replication.zip"
 url_dataset = ""
 url_project = ""
 url_slides = ""
@@ -42,13 +42,13 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+url_custom = [{name = "Shadow rates", url = "https://www.frbsf.org/economic-research/economists/shadow_rates.csv"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = false
 
 # Does this page require source code highlighting? (true/false)
-highlight = true
+highlight = false
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
