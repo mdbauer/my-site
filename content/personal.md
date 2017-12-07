@@ -5,13 +5,17 @@ date: '2017-11-25'
 slug: personal
 ---
 
-# Are you the San Francisco restaurant critic?
+# My wife
 
-I wish! I get asked that a lot, and occasionally I get a
-really good table. [The food critic Michael
-Bauer](http://www.sfchronicle.com/author/michael-bauer/) works for the San
-Francisco Chronicle and writes really great restaurant reviews, which you can
-[read here](http://m.sfgate.com/author/michael-bauer/).
+Amy is a public health epidemiologist and currently an Assistant Professor at
+UCSF School of Medicine. [Her
+research](http://profiles.ucsf.edu/amy.padula) focuses on the environmental
+effects on birth outcomes and is absolutely fascinating.
+
+# My daughter
+
+Lina Marguerite Bauer was born on Martin Luther King Day of 2017. She is
+amazing. You should see her crawl, or better, smile.
 
 # Karate
 
@@ -23,9 +27,10 @@ Funakoshi](http://ska.org/about/master-funakoshi/) and [Tsutomu
 Ohshima](http://ska.org/about/tsutomu-ohshima/), Shihan (head instructor) of
 SKA. I am one of the instructors and the dojo manager. Come visit!
 
-# My wife
+# Are you the San Francisco restaurant critic?
 
-Amy is a public health epidemiologist and currently an Assistant Professor at
-UCSF School of Medicine. [Her
-research](http://profiles.ucsf.edu/amy.padula) focuses on the environmental
-effects on birth outcomes and is absolutely fascinating.
+I wish! I get asked that a lot, and occasionally I get a
+really good table. [The food critic Michael
+Bauer](http://www.sfchronicle.com/author/michael-bauer/) works for the San
+Francisco Chronicle and writes really great restaurant reviews, which you can
+[read here](http://m.sfgate.com/author/michael-bauer/).
