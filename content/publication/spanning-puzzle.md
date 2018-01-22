@@ -32,7 +32,7 @@ projects = []
 # Links (optional).
 url_pdf = "http://rof.oxfordjournals.org/content/early/2016/10/07/rof.rfw044.abstract"
 url_preprint = "https://www.frbsf.org/economic-research/publications/working-papers/wp2015-01.pdf"
-url_code = ""
+url_code = "files/bauer_rudebusch_spanning_replication.zip"
 url_dataset = ""
 url_project = ""
 url_slides = ""
