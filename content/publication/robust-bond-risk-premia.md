@@ -32,7 +32,7 @@ projects = []
 # Links (optional).
 url_pdf = "https://academic.oup.com/rfs/advance-article-abstract/doi/10.1093/rfs/hhx096/4210006"
 url_preprint = "https://www.frbsf.org/economic-research/files/wp2015-15.pdf"
-url_code = ""
+url_code = "files/bauer_hamilton_robust_replication.zip"
 url_dataset = ""
 url_project = ""
 url_slides = ""
