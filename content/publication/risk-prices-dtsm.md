@@ -1,6 +1,6 @@
 +++
 title = "Restrictions on Risk Prices in Dynamic Term Structure Models"
-date = 2016-03-16
+date = 2018-04-22
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
