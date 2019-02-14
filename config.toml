@@ -86,7 +86,7 @@ defaultContentLanguageInSubdir = false
 
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
-  math = false
+  math = true
 
   # Highlight.js options
   #   highlight
@@ -250,9 +250,14 @@ defaultContentLanguageInSubdir = false
   weight = 7
 
 [[menu.main]]
+  name = "Teaching"
+  url = "/teaching/"
+  weight = 8
+
+[[menu.main]]
   name = "CV"
   url = "/files/cv.pdf"
-  weight = 8
+  weight = 9
 
 [[menu.main]]
   name = "Personal"
