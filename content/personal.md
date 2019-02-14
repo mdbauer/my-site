@@ -1,7 +1,7 @@
 ---
 title: 'Personal'
 author: Michael Bauer
-date: '2017-11-25'
+date: '2019-02-14'
 slug: personal
 ---
 
@@ -12,10 +12,16 @@ UCSF School of Medicine. [Her
 research](http://profiles.ucsf.edu/amy.padula) focuses on the environmental
 effects on birth outcomes and is absolutely fascinating.
 
+# My son
+
+Lucas Alexander Bauer was born on the fourth day of Christmas (four calling
+birds!), on December 28, 2018. We are blissed out!
+
 # My daughter
 
 Lina Marguerite Bauer was born on Martin Luther King Day of 2017. She is
-amazing. You should see her crawl, or better, smile.
+amazing. You should see her crawl, or better, smile. (Actually, I can't possibly
+keep this blurb up-to-date! By now she is walking, running, dancing....)
 
 # Karate
 
