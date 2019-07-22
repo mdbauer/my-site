@@ -1,6 +1,6 @@
 +++
 title = "Interest Rates Under Falling Stars"
-date = 2018-12-28
+date = 2019-07-22
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -20,7 +20,7 @@ abstract_short = ""
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
