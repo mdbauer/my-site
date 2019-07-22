@@ -1,3 +1,4 @@
+
 ---
 title: New revision of "Interest Rates Under Falling Stars"
 author: Michael Bauer
@@ -22,4 +23,4 @@ details about our novel yield-curve model with a time-varying trend.
 
 We will make the complete data and code available once the paper is published.
 
-[You can download the new version of the paper here.](/files/br_trends.pdf)
+[You can download the new version of the paper here.](/files/trends.pdf)
