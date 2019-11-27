@@ -7,10 +7,10 @@ draft = false
 authors = ["Michael D. Bauer", "Glenn D. Rudebusch", "Jing Cynthia Wu"]
 
 # Publication type.
-publication_types = ["1"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *American Economic Review*"
+publication = "American Economic Review"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -32,7 +32,7 @@ projects = []
 # Links (optional).
 url_pdf = "https://www.aeaweb.org/articles.php?doi=10.1257/aer.104.1.323"
 url_preprint = "https://www.frbsf.org/economic-research/economists/brw2_working_paper.pdf"
-url_code = "https://www.aeaweb.org/aer/data/jan2014/20120757_data.zip"
+url_code = "/files/brw2_replication.zip"
 url_dataset = ""
 url_project = ""
 url_slides = ""

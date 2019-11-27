@@ -9,7 +9,7 @@ authors = ["Michael D. Bauer", "Glenn D. Rudebusch"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Federal Reserve Bank of San Francisco Working Paper Series"
+publication = "American Economic Review"
 publication_short = ""
 
 # Abstract and optional shortened version.

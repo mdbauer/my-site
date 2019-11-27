@@ -6,10 +6,10 @@ draft = false
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Michael D. Bauer"]
 
-publication_types = ["1"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Journal of Business and Economic Statistics*"
+publication = "Journal of Business and Economic Statistics"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -31,7 +31,7 @@ projects = []
 # Links (optional).
 url_pdf = "http://amstat.tandfonline.com/eprint/nMMuIu76kXzDEXByKBVD/full#"
 url_preprint = "https://www.frbsf.org/economic-research/publications/working-papers/wp11-03bk.pdf"
-url_code = "https://www.frbsf.org/economic-research/files/bauer_rrp_replication.zip"
+url_code = "/files/bauer_rrp_replication.zip"
 url_dataset = ""
 url_project = ""
 url_slides = ""

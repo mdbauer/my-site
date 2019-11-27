@@ -7,10 +7,10 @@ draft = false
 authors = ["Michael D. Bauer"]
 
 # Publication type.
-publication_types = ["1"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Journal of Money, Credit and Banking*"
+publication = "Journal of Money, Credit and Banking"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -32,7 +32,7 @@ projects = []
 # Links (optional).
 url_pdf = "http://onlinelibrary.wiley.com/doi/10.1111/jmcb.12177/abstract"
 url_preprint = "https://www.frbsf.org/economic-research/publications/working-papers/wp11-20bk.pdf"
-url_code = "https://www.frbsf.org/economic-research/files/bauer_news_replication.zip"
+url_code = "/files/bauer_news_replication.zip"
 url_dataset = ""
 url_project = ""
 url_slides = ""

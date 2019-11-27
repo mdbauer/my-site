@@ -1,5 +1,2 @@
-.Rproj.user
-.Rhistory
-.RData
-.Ruserdata
-/public
+public/
+.idea/

@@ -7,10 +7,10 @@ draft = false
 authors = ["Michael D. Bauer", "Glenn D. Rudebusch"]
 
 # Publication type.
-publication_types = ["1"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Review of Finance*"
+publication = "Review of Finance"
 publication_short = ""
 
 # Abstract and optional shortened version.

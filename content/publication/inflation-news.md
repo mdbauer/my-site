@@ -7,10 +7,10 @@ draft = false
 authors = ["Michael D. Bauer"]
 
 # Publication type.
-publication_types = ["1"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *International Journal of Central Banking*"
+publication = "International Journal of Central Banking"
 publication_short = ""
 
 # Abstract and optional shortened version.

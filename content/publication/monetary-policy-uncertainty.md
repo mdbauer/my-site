@@ -6,10 +6,10 @@ draft = false
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Michael D. Bauer", "Aeimit Lakdawala", "Philippe Mueller"]
 
-publication_types = ["2"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Federal Reserve Bank of San Francisco Working Paper Series"
+publication = "Federal Reserve Bank of San Francisco Working Paper"
 publication_short = ""
 
 # Abstract and optional shortened version.
