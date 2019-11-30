@@ -9,7 +9,7 @@ authors = ["Michael D. Bauer", "Glenn D. Rudebusch", "Jing Cynthia Wu"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Journal of Business and Economic Statistics"
+publication = "*Journal of Business and Economic Statistics*"
 publication_short = ""
 
 # Abstract and optional shortened version.

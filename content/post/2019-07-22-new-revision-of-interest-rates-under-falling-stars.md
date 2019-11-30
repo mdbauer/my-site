@@ -11,14 +11,11 @@ tags:
   - trends
   - term premium
   - expectations
-header:
-  caption: ''
-  image: ''
 ---
 
 [Glenn Rudebusch](http://glennrudebusch.com/) and I finished another round of
 revisions of our paper "Interest Rates Under Falling Stars" which we just sent
-back to the *American Economics Revies*. This version includes a lot more
+back to the *American Economics Review*. This version includes a lot more
 details about our novel yield-curve model with a time-varying trend. 
 
 We will make the complete data and code available once the paper is published.

@@ -1,27 +1,27 @@
 +++
-title = "Robust Bond Risk Premia"
-date = 2017-09-22
+title = "Term Premia and Inflation Uncertainty: Empirical Evidence from an International Panel Dataset: Comment"
+date = 2014-01-01
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Michael D. Bauer", "James D. Hamilton"]
+authors = ["Michael D. Bauer", "Glenn D. Rudebusch", "Jing Cynthia Wu"]
 
 # Publication type.
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Review of Financial Studies"
+publication = "*American Economic Review*"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "A consensus has recently emerged that variables beyond the level, slope, and curvature of the yield curve can help predict bond returns. This paper shows that the statistical tests underlying this evidence are subject to serious small-sample distortions. We propose more robust tests, including a novel bootstrap procedure specifically designed to test the spanning hypothesis. We revisit the analysis in six published studies and find that the evidence against the spanning hypothesis is much weaker than it originally appeared. Our results pose a serious challenge to the prevailing consensus."
+abstract = "Term premia implied by maximum likelihood estimates of affine term structure models are misleading because of small-sample bias. We show that accounting for this bias alters the conclusions about the trend, cycle, and macroeconomic determinants of the term premia estimated in Wright (2011). His term premium estimates are essentially acyclical, and often just parallel the secular trend in long-term interest rates. In contrast, bias-corrected term premia show pronounced countercyclical behavior, consistent with theoretical and empirical arguments about movements in risk premia."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -30,9 +30,9 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = "https://academic.oup.com/rfs/advance-article-abstract/doi/10.1093/rfs/hhx096/4210006"
-url_preprint = "https://www.frbsf.org/economic-research/files/wp2015-15.pdf"
-url_code = "files/bauer_hamilton_robust_replication.zip"
+url_pdf = "https://www.aeaweb.org/articles.php?doi=10.1257/aer.104.1.323"
+url_preprint = "https://www.frbsf.org/economic-research/economists/brw2_working_paper.pdf"
+url_code = "/files/brw2_replication.zip"
 url_dataset = ""
 url_project = ""
 url_slides = ""

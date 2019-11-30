@@ -10,7 +10,7 @@ authors = ["Michael D. Bauer", "Christopher J. Neely"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Journal of International Money and Finance"
+publication = "*Journal of International Money and Finance*"
 publication_short = ""
 
 # Abstract and optional shortened version.

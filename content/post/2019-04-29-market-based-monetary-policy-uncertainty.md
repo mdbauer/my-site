@@ -1,5 +1,5 @@
 ---
-title: 'New Working Paper: Market-Based Monetary Policy Uncertainty'
+title: 'New working paper: Market-Based Monetary Policy Uncertainty'
 author: Michael Bauer
 date: '2019-04-29'
 slug: market-based-monetary-policy-uncertainty

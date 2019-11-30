@@ -3,6 +3,7 @@ title: 'Personal'
 author: Michael Bauer
 date: '2019-02-14'
 slug: personal
+draft: true
 ---
 
 # My wife

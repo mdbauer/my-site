@@ -1,6 +1,6 @@
 +++
-title = "The Signaling Channel for Federal Reserve Bond Purchases"
-date = 2014-09-01
+title = "Monetary Policy Expectations at the Zero Lower Bound"
+date = 2016-09-15
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -10,11 +10,11 @@ authors = ["Michael D. Bauer", "Glenn D. Rudebusch"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "International Journal of Central Banking"
+publication = "*Journal of Money, Credit and Banking*"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Previous research has emphasized the portfolio balance effects of Federal Reserve bond purchases, in which a reduced bond supply lowers term premia. In contrast, we find that such purchases have important signaling effects that lower expected future short-term interest rates. Our evidence comes from a model-free analysis and from dynamic term structure models that decompose declines in yields following Federal Reserve announcements into changes in risk premia and expected short rates. To overcome problems in measuring term premia, we consider bias-corrected model estimation and restricted risk price estimation. In comparison with other studies, our estimates of signaling effects are larger in magnitude and statistical significance."
+abstract = "We show that conventional dynamic term structure models (DTSMs) estimated on recent U.S. data severely violate the zero lower bound (ZLB) on nominal interest rates and deliver poor forecasts of future short rates. In contrast, shadow-rate DTSMs account for the ZLB by construction, capture the resulting distributional asymmetry of future short rates, and achieve good forecast performance. These models provide more accurate estimates of the most likely path for future monetary policy—including the timing of policy liftoff from the ZLB and the pace of subsequent policy tightening. We also demonstrate the benefits of including macroeconomic factors in a shadow-rate DTSM when yields are constrained near the ZLB."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
@@ -30,8 +30,9 @@ selected = false
 projects = []
 
 # Links (optional).
-url_pdf = "http://www.ijcb.org/journal/ijcb14q3a7.pdf"
-url_code = ""
+url_pdf = "http://onlinelibrary.wiley.com/doi/10.1111/jmcb.12338/full"
+url_preprint = "https://www.frbsf.org/economic-research/publications/working-papers/wp2013-18.pdf"
+url_code = "/files/bauer_rudebusch_zlb_replication.zip"
 url_dataset = ""
 url_project = ""
 url_slides = ""
@@ -41,7 +42,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+url_custom = [{name = "Shadow rates", url = "https://www.frbsf.org/economic-research/economists/shadow_rates.csv"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = false
