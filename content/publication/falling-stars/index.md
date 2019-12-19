@@ -17,10 +17,10 @@ abstract: "Macro-finance theory implies that trend inflation and the equilibrium
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
-# - name: FRBSF Working Paper
-#   url: "https://www.frbsf.org/economic-research/files/wp2017-16.pdf"
-- name: PDF
-  url: "files/trends.pdf"
+- name: Working Paper
+  url: "https://www.frbsf.org/economic-research/files/wp2017-16.pdf"
+# - name: PDF
+#   url: "files/trends.pdf"
 - name: Online Appendix
   url: "files/br_trends_online_appendix.pdf"
 - name: Code
