@@ -2,8 +2,7 @@
 title: "Market-Based Monetary Policy Uncertainty"
 date: 2019-12-06
 draft: false
-featured: true
-selected: true
+selected: false
 authors: ["Michael D. Bauer", "Aeimit Lakdawala", "Philippe Mueller"]
 publication_types: ["3"]
 

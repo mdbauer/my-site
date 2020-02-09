@@ -14,8 +14,8 @@ role: Financial Economist
 
 # Organizations/Affiliations
 organizations:
-- name: Federal Reserve Bank of San Francisco
-  url: "https://www.frbsf.org/"
+- name: Universität Hamburg
+  url: "https://www.uni-hamburg.de/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research areas are financial economics, monetary economics and time series econometrics.
@@ -71,26 +71,32 @@ user_groups:
 - Visitors
 ---
 
-Welcome to my website! I'm a Research Advisor in the Economic Research
-Department of the [Federal Reserve Bank of San
-Francisco](https://www.frbsf.org). My research focuses on the interactions of
-financial markets with the macroeconomy and monetary policy. I am particularly
-interested in trying to understand the effects of monetary policy actions on
-financial markets, including the unconventional policies that central banks
-started implementing during the Global Financial Crisis of 2008, like asset
-purchases and forward guidance. My work has been published in leading
-economics journals including the *American Economic Review*, the *Review of
-Financial Studies*, and the *Journal of Business and Economic Statistics*.
+Welcome to my website! I'm a Professor of Financial Economics at [Unitersität
+Hamburg](https://www.uni-hamburg.de/), a research fellow of the [CESifo Research
+Network](https://www.cesifo.org/), and a member of the [Macro Finance
+Society](https://macrofinancesociety.org/). I recently moved back to Germany, my
+home country. Previously I had been working as an economist at the [Federal Reserve Bank
+of San Francisco](https://frbsf.org/) since 2010.
+
+My research focuses on the interactions of financial markets with the
+macroeconomy and monetary policy. I am particularly interested in trying to
+understand the effects of monetary policy actions on financial markets, the
+determinants of long-term interest rates, macro-financial linkages more
+generally, and, more recently, the role of financial markets for climate
+change. My work has been published in leading economics journals including the
+*American Economic Review*, the *Review of Financial Studies*, and the *Journal
+of Business and Economic Statistics*.
 
 I obtained my Ph.D. in Economics at the [University of California, San
 Diego](https://economics.ucsd.edu/), where [Jim
 Hamilton](http://econweb.ucsd.edu/~jhamilton/) was my doctoral adviser, and my
-B.A. in Economics and M.A. in Quantitative Economics and Finance from the
+B.A. in Economics and [M.A. in Quantitative Economics and Finance](https://www.unisg.ch/en/studium/master/quantitativeeconomicsandfinance/) from the
 [University of St. Gallen,
-Switzerland](https://www.unisg.ch/en/studium/master/quantitativeeconomicsandfinance).
+Switzerland](https://www.unisg.ch/).
 
-{{% staticref "files/cv.pdf" %}}CV{{% /staticref %}} :small_blue_diamond:
+[CV](files/cv.pdf) :small_blue_diamond:
 [Google scholar](https://scholar.google.com/citations?user=axcAtmoAAAAJ) :small_blue_diamond:
-[SF Fed page](https://www.frbsf.org/economic-research/economists/michael-bauer/) :small_blue_diamond:
 [RePeC page](https://ideas.repec.org/f/pba824.html) :small_blue_diamond:
 [SSRN page](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1037079)
+
+<!-- [SF Fed page](https://www.frbsf.org/economic-research/economists/michael-bauer/) :small_blue_diamond: -->
