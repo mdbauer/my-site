@@ -94,9 +94,10 @@ B.A. in Economics and [M.A. in Quantitative Economics and Finance](https://www.u
 [University of St. Gallen,
 Switzerland](https://www.unisg.ch/).
 
+[Uni Hamburg Website](https://www.wiso.uni-hamburg.de/en/fachbereich-vwl/professuren/bauer.html) :small_blue_diamond: 
 [CV](files/cv.pdf) :small_blue_diamond:
 [Google scholar](https://scholar.google.com/citations?user=axcAtmoAAAAJ) :small_blue_diamond:
-[RePeC page](https://ideas.repec.org/f/pba824.html) :small_blue_diamond:
-[SSRN page](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1037079)
+[RePeC](https://ideas.repec.org/f/pba824.html) :small_blue_diamond:
+[SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1037079)
 
 <!-- [SF Fed page](https://www.frbsf.org/economic-research/economists/michael-bauer/) :small_blue_diamond: -->
