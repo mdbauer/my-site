@@ -71,12 +71,12 @@ user_groups:
 - Visitors
 ---
 
-Welcome to my website! I'm a Professor of Financial Economics at [Unitersität
+Welcome to my website! I'm a Professor of Financial Economics at [Universität
 Hamburg](https://www.uni-hamburg.de/), a research fellow of the [CESifo Research
 Network](https://www.cesifo.org/), and a member of the [Macro Finance
 Society](https://macrofinancesociety.org/). I recently moved back to Germany, my
-home country. Previously I had been working as an economist at the [Federal Reserve Bank
-of San Francisco](https://frbsf.org/) since 2010.
+home country. Previously I worked as an economist at the [Federal Reserve Bank
+of San Francisco](https://frbsf.org/).
 
 My research focuses on the interactions of financial markets with the
 macroeconomy and monetary policy. I am particularly interested in trying to
@@ -88,7 +88,7 @@ change. My work has been published in leading economics journals including the
 of Business and Economic Statistics*.
 
 I obtained my Ph.D. in Economics at the [University of California, San
-Diego](https://economics.ucsd.edu/), where [Jim
+Diego](https://economics.ucsd.edu/), where [James
 Hamilton](http://econweb.ucsd.edu/~jhamilton/) was my doctoral adviser, and my
 B.A. in Economics and [M.A. in Quantitative Economics and Finance](https://www.unisg.ch/en/studium/master/quantitativeeconomicsandfinance/) from the
 [University of St. Gallen,
