@@ -14,7 +14,7 @@ abstract: "High-frequency changes in interest rates around FOMC announcements ar
 
 # Custom links
 links:
-- name: PDF
+- name: Working Paper
   url: "https://www.frbsf.org/economic-research/files/wp2020-06.pdf"
 
 ---

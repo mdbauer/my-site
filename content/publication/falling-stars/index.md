@@ -3,7 +3,7 @@
 
 title: "Interest Rates Under Falling Stars"
 authors: ["Michael D. Bauer", "Glenn D. Rudebusch"]
-date: 2019-11-29
+date: 2020-05-27
 featured: true
 publication_types: ["2"]
 
@@ -17,13 +17,13 @@ abstract: "Macro-finance theory implies that trend inflation and the equilibrium
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
+- name: Article
+  url: "https://www.aeaweb.org/articles?id=10.1257/aer.20171822"
 - name: Working Paper
   url: "https://www.frbsf.org/economic-research/files/wp2017-16.pdf"
-# - name: PDF
-#   url: "files/trends.pdf"
 - name: Online Appendix
   url: "files/br_trends_online_appendix.pdf"
-- name: Code
+- name: Code & Data
   url: "files/trends_replication.zip"
 
 ---
