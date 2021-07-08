@@ -27,7 +27,8 @@ theoretical framework where one of the agents has biased beliefs."
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
-- name: Working Paper
+- name: PDF
   url: "files/BC_Skew.pdf"
-
+- name: NBER Working Paper
+  url: "https://www.nber.org/papers/w28954"
 ---
