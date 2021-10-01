@@ -15,6 +15,11 @@ abstract: "Uncertainty about future policy rates plays a crucial role for the tr
 # Custom links
 links:
 - name: PDF
+  url: "files/mpu.pdf"
+- name: FRBSF Working Paper
   url: "https://www.frbsf.org/economic-research/files/wp2019-12.pdf"
-
+- name: Code and Data
+  url: "files/mpu_replication_package.zip"
+- name: Daily uncertainty measure
+  url: "files/mpu.csv"
 ---
