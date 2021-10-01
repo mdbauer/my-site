@@ -2,7 +2,7 @@
 title = "The Signaling Channel for Federal Reserve Bond Purchases"
 date = 2014-09-01
 draft = false
-featured = true
+featured = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Michael D. Bauer", "Glenn D. Rudebusch"]

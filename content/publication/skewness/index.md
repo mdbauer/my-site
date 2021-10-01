@@ -4,7 +4,7 @@
 title: "Interest Rate Skewness and Biased Beliefs"
 authors: ["Michael D. Bauer", "Mikhail Chernov"]
 date: 2021-06-16
-featured: true
+featured: false
 publication_types: ["3"]
 
 # Publication name and optional abbreviated version.
