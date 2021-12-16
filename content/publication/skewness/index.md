@@ -20,4 +20,6 @@ links:
   url: "files/BC_Skew.pdf"
 - name: NBER Working Paper
   url: "https://www.nber.org/papers/w28954"
+- name: CEPR Discussion Paper
+  url: "https://cepr.org/active/publications/discussion_papers/dp.php?dpno=16274"
 ---
