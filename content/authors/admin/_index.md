@@ -82,10 +82,10 @@ My research focuses on the interactions of financial markets with the
 macroeconomy and monetary policy. I am particularly interested in trying to
 understand the effects of monetary policy actions on financial markets, the
 determinants of long-term interest rates, macro-financial linkages more
-generally, and, more recently, the role of financial markets for climate
-change. My work has been published in leading economics journals including the
-*American Economic Review*, the *Review of Financial Studies*, and the *Journal
-of Business and Economic Statistics*.
+generally, and the role of financial markets for climate change. My work has
+been published in the *American
+Economic Review*, the *Review of Financial Studies*, and the *Review of
+Economics and Statistics*, among other journals.
 
 I obtained my Ph.D. in Economics at the [University of California, San
 Diego](https://economics.ucsd.edu/), where [James
